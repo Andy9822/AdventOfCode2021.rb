@@ -1,4 +1,4 @@
-# AdventOfCode2021
+# AdventOfCode2021.rb
 
 Advent of Code 2021 developed in Ruby to improve my skills and knowledge with this progamming language.
 
