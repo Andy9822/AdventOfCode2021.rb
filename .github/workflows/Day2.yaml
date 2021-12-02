@@ -1,4 +1,4 @@
-name: Day 1
+name: Day 2
 
 on:
   push:
@@ -18,4 +18,4 @@ jobs:
       - name: Install Gems
         run: bundle install
       - name: Run tests
-        run: bundle exec rspec spec/Day1_spec.rb
+        run: bundle exec rspec spec/Day2_spec.rb
